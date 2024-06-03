@@ -1,0 +1,9 @@
+Module
+  name: game_q7
+  description: Interview Question 7
+  author: Wagner Barongello
+  website: https://github.com/barongello
+  sandboxed: true
+  scripts: [ q7 ]
+  @onLoad: init()
+  @onUnload: terminate()

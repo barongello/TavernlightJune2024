@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spells>
+  <instant group="attack" spellid="202" name="Question Six" words="question six" level="1" mana="0" premium="0" range="5" needtarget="0" needweapon="0" cooldown="1000" groupcooldown="1000" needlearn="0" script="attack/q6.lua">
+    <vocation name="Knight" />
+    <vocation name="Elite Knight" />
+    <vocation name="Druid" />
+    <vocation name="Elder Druid" />
+    <vocation name="Sorcerer" />
+    <vocation name="Master Sorcerer" />
+    <vocation name="Paladin" />
+    <vocation name="Royal Paladin" />
+  </instant>
+</spells>

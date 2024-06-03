@@ -1,0 +1,11 @@
+MainWindow
+  id: q7Window
+  !text: tr('Q7')
+  size: 320 240
+  @onEscape: toggle()
+
+  Button
+    id: jumpButton
+    !text: tr('JUMP')
+    width: 50
+    @onClick: jumpButtonClick()
